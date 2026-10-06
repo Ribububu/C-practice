@@ -1,0 +1,2 @@
+C:\Users\Ribu\Downloads\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\Ribu\Downloads\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache

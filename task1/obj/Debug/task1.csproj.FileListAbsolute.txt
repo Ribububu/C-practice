@@ -1,0 +1,6 @@
+C:\Users\Ribu\Downloads\application development\week2\task1\bin\Debug\task1.exe
+C:\Users\Ribu\Downloads\application development\week2\task1\bin\Debug\task1.pdb
+C:\Users\Ribu\Downloads\application development\week2\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\Ribu\Downloads\application development\week2\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Ribu\Downloads\application development\week2\task1\obj\Debug\task1.exe
+C:\Users\Ribu\Downloads\application development\week2\task1\obj\Debug\task1.pdb

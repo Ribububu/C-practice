@@ -1,0 +1,6 @@
+C:\Users\Ribu\Downloads\task2\bin\Debug\task2.exe
+C:\Users\Ribu\Downloads\task2\bin\Debug\task2.pdb
+C:\Users\Ribu\Downloads\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Ribu\Downloads\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Ribu\Downloads\task2\obj\Debug\task2.exe
+C:\Users\Ribu\Downloads\task2\obj\Debug\task2.pdb
